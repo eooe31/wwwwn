@@ -199,7 +199,7 @@ async def hunterusername(event):
                     )
                 )
                 await event.client.send_message(
-                    event.chat_id,
+                    "@wwwwn",
                     f"⌯ تم الصيد !'𓆪\n⎱ UserName: ↣ (@{username}❳!\n⎱ Hunting Log {trys2[0]}\n⎱ by ",
                 )
                 break
